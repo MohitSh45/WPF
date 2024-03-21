@@ -1,0 +1,76 @@
+C:\Users\gsaji\source\repos\WpfApp1\WpfApp1\bin\Debug\RestaurantBillCalculator.exe.config
+C:\Users\gsaji\source\repos\WpfApp1\WpfApp1\bin\Debug\RestaurantBillCalculator.exe
+C:\Users\gsaji\source\repos\WpfApp1\WpfApp1\bin\Debug\RestaurantBillCalculator.pdb
+C:\Users\gsaji\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\gsaji\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\gsaji\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\gsaji\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\gsaji\source\repos\WpfApp1\WpfApp1\obj\Debug\RestaurantBillCalculator_MarkupCompile.cache
+C:\Users\gsaji\source\repos\WpfApp1\WpfApp1\obj\Debug\RestaurantBillCalculator_MarkupCompile.lref
+C:\Users\gsaji\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\gsaji\source\repos\WpfApp1\WpfApp1\obj\Debug\RestaurantBillCalculator.g.resources
+C:\Users\gsaji\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\gsaji\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\gsaji\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\gsaji\source\repos\WpfApp1\WpfApp1\obj\Debug\RestaurantBillCalculator.exe
+C:\Users\gsaji\source\repos\WpfApp1\WpfApp1\obj\Debug\RestaurantBillCalculator.pdb
+C:\Users\nehaz\Downloads\301292569(Ghosh)Lab_3\WpfApp1\WpfApp1\bin\Debug\RestaurantBillCalculator.exe.config
+C:\Users\nehaz\Downloads\301292569(Ghosh)Lab_3\WpfApp1\WpfApp1\bin\Debug\RestaurantBillCalculator.exe
+C:\Users\nehaz\Downloads\301292569(Ghosh)Lab_3\WpfApp1\WpfApp1\bin\Debug\RestaurantBillCalculator.pdb
+C:\Users\nehaz\Downloads\301292569(Ghosh)Lab_3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\nehaz\Downloads\301292569(Ghosh)Lab_3\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\nehaz\Downloads\301292569(Ghosh)Lab_3\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\nehaz\Downloads\301292569(Ghosh)Lab_3\WpfApp1\WpfApp1\obj\Debug\RestaurantBillCalculator_MarkupCompile.cache
+C:\Users\nehaz\Downloads\301292569(Ghosh)Lab_3\WpfApp1\WpfApp1\obj\Debug\RestaurantBillCalculator_MarkupCompile.lref
+C:\Users\nehaz\Downloads\301292569(Ghosh)Lab_3\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\nehaz\Downloads\301292569(Ghosh)Lab_3\WpfApp1\WpfApp1\obj\Debug\RestaurantBillCalculator.g.resources
+C:\Users\nehaz\Downloads\301292569(Ghosh)Lab_3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\nehaz\Downloads\301292569(Ghosh)Lab_3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\nehaz\Downloads\301292569(Ghosh)Lab_3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\nehaz\Downloads\301292569(Ghosh)Lab_3\WpfApp1\WpfApp1\obj\Debug\RestaurantBillCalculator.exe
+C:\Users\nehaz\Downloads\301292569(Ghosh)Lab_3\WpfApp1\WpfApp1\obj\Debug\RestaurantBillCalculator.pdb
+C:\Users\nehaz\Documents\Assignments\Sem - 2\Programming 3\301367765(zala)_LAB#3\WpfApp1\WpfApp1\bin\Debug\RestaurantBillCalculator.exe.config
+C:\Users\nehaz\Documents\Assignments\Sem - 2\Programming 3\301367765(zala)_LAB#3\WpfApp1\WpfApp1\bin\Debug\RestaurantBillCalculator.exe
+C:\Users\nehaz\Documents\Assignments\Sem - 2\Programming 3\301367765(zala)_LAB#3\WpfApp1\WpfApp1\bin\Debug\RestaurantBillCalculator.pdb
+C:\Users\nehaz\Documents\Assignments\Sem - 2\Programming 3\301367765(zala)_LAB#3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\nehaz\Documents\Assignments\Sem - 2\Programming 3\301367765(zala)_LAB#3\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\nehaz\Documents\Assignments\Sem - 2\Programming 3\301367765(zala)_LAB#3\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\nehaz\Documents\Assignments\Sem - 2\Programming 3\301367765(zala)_LAB#3\WpfApp1\WpfApp1\obj\Debug\RestaurantBillCalculator_MarkupCompile.cache
+C:\Users\nehaz\Documents\Assignments\Sem - 2\Programming 3\301367765(zala)_LAB#3\WpfApp1\WpfApp1\obj\Debug\RestaurantBillCalculator_MarkupCompile.lref
+C:\Users\nehaz\Documents\Assignments\Sem - 2\Programming 3\301367765(zala)_LAB#3\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\nehaz\Documents\Assignments\Sem - 2\Programming 3\301367765(zala)_LAB#3\WpfApp1\WpfApp1\obj\Debug\RestaurantBillCalculator.g.resources
+C:\Users\nehaz\Documents\Assignments\Sem - 2\Programming 3\301367765(zala)_LAB#3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\nehaz\Documents\Assignments\Sem - 2\Programming 3\301367765(zala)_LAB#3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\nehaz\Documents\Assignments\Sem - 2\Programming 3\301367765(zala)_LAB#3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\nehaz\Documents\Assignments\Sem - 2\Programming 3\301367765(zala)_LAB#3\WpfApp1\WpfApp1\obj\Debug\RestaurantBillCalculator.exe
+C:\Users\nehaz\Documents\Assignments\Sem - 2\Programming 3\301367765(zala)_LAB#3\WpfApp1\WpfApp1\obj\Debug\RestaurantBillCalculator.pdb
+C:\Users\nehaz\Documents\Assignments\Sem - 2\Programming 3\301367765(zala)_LAB#3\Restaurant Bill Calc\WpfApp1\bin\Debug\RestaurantBillCalculator.exe.config
+C:\Users\nehaz\Documents\Assignments\Sem - 2\Programming 3\301367765(zala)_LAB#3\Restaurant Bill Calc\WpfApp1\bin\Debug\RestaurantBillCalculator.exe
+C:\Users\nehaz\Documents\Assignments\Sem - 2\Programming 3\301367765(zala)_LAB#3\Restaurant Bill Calc\WpfApp1\bin\Debug\RestaurantBillCalculator.pdb
+C:\Users\nehaz\Documents\Assignments\Sem - 2\Programming 3\301367765(zala)_LAB#3\Restaurant Bill Calc\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\nehaz\Documents\Assignments\Sem - 2\Programming 3\301367765(zala)_LAB#3\Restaurant Bill Calc\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\nehaz\Documents\Assignments\Sem - 2\Programming 3\301367765(zala)_LAB#3\Restaurant Bill Calc\WpfApp1\obj\Debug\App.g.cs
+C:\Users\nehaz\Documents\Assignments\Sem - 2\Programming 3\301367765(zala)_LAB#3\Restaurant Bill Calc\WpfApp1\obj\Debug\RestaurantBillCalculator_MarkupCompile.cache
+C:\Users\nehaz\Documents\Assignments\Sem - 2\Programming 3\301367765(zala)_LAB#3\Restaurant Bill Calc\WpfApp1\obj\Debug\RestaurantBillCalculator_MarkupCompile.lref
+C:\Users\nehaz\Documents\Assignments\Sem - 2\Programming 3\301367765(zala)_LAB#3\Restaurant Bill Calc\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\nehaz\Documents\Assignments\Sem - 2\Programming 3\301367765(zala)_LAB#3\Restaurant Bill Calc\WpfApp1\obj\Debug\RestaurantBillCalculator.g.resources
+C:\Users\nehaz\Documents\Assignments\Sem - 2\Programming 3\301367765(zala)_LAB#3\Restaurant Bill Calc\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\nehaz\Documents\Assignments\Sem - 2\Programming 3\301367765(zala)_LAB#3\Restaurant Bill Calc\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\nehaz\Documents\Assignments\Sem - 2\Programming 3\301367765(zala)_LAB#3\Restaurant Bill Calc\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\nehaz\Documents\Assignments\Sem - 2\Programming 3\301367765(zala)_LAB#3\Restaurant Bill Calc\WpfApp1\obj\Debug\RestaurantBillCalculator.exe
+C:\Users\nehaz\Documents\Assignments\Sem - 2\Programming 3\301367765(zala)_LAB#3\Restaurant Bill Calc\WpfApp1\obj\Debug\RestaurantBillCalculator.pdb
+E:\Centennial\C#\Programming3\WPF\WpfApp1\WpfApp1\bin\Debug\RestaurantBillCalculator.exe.config
+E:\Centennial\C#\Programming3\WPF\WpfApp1\WpfApp1\bin\Debug\RestaurantBillCalculator.exe
+E:\Centennial\C#\Programming3\WPF\WpfApp1\WpfApp1\bin\Debug\RestaurantBillCalculator.pdb
+E:\Centennial\C#\Programming3\WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+E:\Centennial\C#\Programming3\WPF\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+E:\Centennial\C#\Programming3\WPF\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+E:\Centennial\C#\Programming3\WPF\WpfApp1\WpfApp1\obj\Debug\RestaurantBillCalculator_MarkupCompile.cache
+E:\Centennial\C#\Programming3\WPF\WpfApp1\WpfApp1\obj\Debug\RestaurantBillCalculator_MarkupCompile.lref
+E:\Centennial\C#\Programming3\WPF\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+E:\Centennial\C#\Programming3\WPF\WpfApp1\WpfApp1\obj\Debug\RestaurantBillCalculator.g.resources
+E:\Centennial\C#\Programming3\WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+E:\Centennial\C#\Programming3\WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+E:\Centennial\C#\Programming3\WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+E:\Centennial\C#\Programming3\WPF\WpfApp1\WpfApp1\obj\Debug\RestaurantBillCalculator.exe
+E:\Centennial\C#\Programming3\WPF\WpfApp1\WpfApp1\obj\Debug\RestaurantBillCalculator.pdb
